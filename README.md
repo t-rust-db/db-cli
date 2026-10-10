@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **Moved to [t-rust-db/tools](https://github.com/t-rust-db/tools/tree/main/db-cli).** This repository is archived.
+> db-cli now lives in the `tools` Cargo workspace, with its full history; open issues were transferred there
+> (t-rust-db/tools#1).
+
 # db-cli
 
 Generic REPL/readline infrastructure shared across `t-rust-db` engine CLIs
